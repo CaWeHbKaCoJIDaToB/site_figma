@@ -1,0 +1,85 @@
+@font-face {
+  font-family: "ubuntu_med";
+  src: url(./fonts/ubuntu_med.ttf);
+}
+
+.header {
+  width: 1200px;
+  height: 48px;
+  margin-left: 120px;
+  margin-top: 24px;
+  background-color: white;
+}
+
+.VQ {
+  position: absolute;
+  top: 35px;
+  font-style: normal;
+  font-size: 30px;
+  line-height: 28px;
+}
+
+.VQ a {
+  color: red;
+  font-family: "ubuntu_med";
+  text-decoration: none;
+}
+
+.VQ a span {
+  color: black;
+  font-family: "ubuntu_med";
+}
+
+.cc {
+  position: absolute;
+  width: 137px;
+  height: 48px;
+  left: 1183px;
+  top: 32px;
+  background: red;
+  border-radius: 10px;
+  color: white;
+}
+
+.inf {
+  position: absolute;
+  width: 87px;
+  height: 18px;
+  left: 1056px;
+  top: 39px;
+  background: white;
+  border-radius: 10px;
+  color: black;
+  text-decoration: none;
+}
+
+.quo {
+  position: absolute;
+  width: 46px;
+  height: 18px;
+  left: 970px;
+  top: 39px;
+  background: white;
+  color: black;
+  text-decoration: none;
+}
+
+.sche {
+  position: absolute;
+  width: 66px;
+  height: 18px;
+  left: 864px;
+  top: 39px;
+  color: black;
+  text-decoration: none;
+}
+
+.home {
+  position: absolute;
+  width: 44px;
+  height: 18px;
+  left: 780px;
+  top: 39px;
+  color: red;
+  text-decoration: none;
+}
